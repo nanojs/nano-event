@@ -40,7 +40,7 @@ Contributing
 If you'd like to contribute new features, enhancements or bug fixes to the code base just follow these steps:
 
 * Create a [GitHub](https://github.com/signup/free) account, if you don't own one already
-* Then, [fork](https://help.github.com/articles/fork-a-repo) the [nano](https://github.com/nanojs/nano-event) repository to your account
+* Then, [fork](https://help.github.com/articles/fork-a-repo) the [nano-event](https://github.com/nanojs/nano-event) repository to your account
 * Create a new [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository) from the *develop* branch in your forked repository
 * Modify the existing code, or add new code to your branch
 * When ready, make a [pull request](http://help.github.com/send-pull-requests/) to the main repository
